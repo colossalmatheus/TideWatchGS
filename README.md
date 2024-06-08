@@ -26,13 +26,13 @@
 ### Teste:
 - Acesse a aplicação em um navegador da web ou faça solicitações HTTP usando ferramentas como Postman para verificar se está funcionando conforme o esperado.
 
-## Diagrama de Classes
+## DER
 <img width="596" alt="image" src="https://github.com/colossalmatheus/TideWatchGS/assets/125572827/438044dd-9555-4aac-bd2f-1a6b1f4ed4a6">
 
 
-## DER
-![DER]((https://github.com/colossalmatheus/TideWatchGS/assets/125572827/c46c2dad-55bb-446c-8259-efa1b2b32564)
-)
+## Diagrama de Classes
+![image](https://github.com/colossalmatheus/TideWatchGS/assets/125572827/736a84fb-f506-48af-9f9e-07f69cef50bf)
+
 
 ## Endpoints
 
